@@ -10,11 +10,7 @@ a tool for simple alphabetical text encryption.
 
 ##### installation and usage
 
-install:
-`yay -S edc-bin`
-
-
-usage:
+install: `yay -S edc-bin`
 
 start: `edc`
 
