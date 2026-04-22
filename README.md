@@ -15,9 +15,13 @@ install:
 
 
 usage:
+
 start: `edc`
+
 encrypt mode: `.e`
+
 decrypt mode: `.d`
+
 generate a new alphabet: `.agen`
 
 
